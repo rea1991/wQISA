@@ -21,9 +21,7 @@ $$
 y_j^\ast:=\dfrac{y_{j+1}+\ldots+y_{j+p_y}}{p_y}, \quad j=1,\ldots,n_y
 $$
 are the *knot averages* and where
-$$
-\hat{z}(u,v):=\dfrac{\sum\limits_{(x,y,z)\in\mathcal{P}}z\cdot w(x,y,u,v)}{\sum\limits_{(x,y,z)\in\mathcal{P}} w(x,y,u,v)}
-$$
+<a href="https://www.codecogs.com/eqnedit.php?latex=\hat{z}(u,v):=\dfrac{\sum\limits_{(x,y,z)\in\mathcal{P}}z\cdot&space;w(x,y,u,v)}{\sum\limits_{(x,y,z)\in\mathcal{P}}&space;w(x,y,u,v)}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{z}(u,v):=\dfrac{\sum\limits_{(x,y,z)\in\mathcal{P}}z\cdot&space;w(x,y,u,v)}{\sum\limits_{(x,y,z)\in\mathcal{P}}&space;w(x,y,u,v)}" title="\hat{z}(u,v):=\dfrac{\sum\limits_{(x,y,z)\in\mathcal{P}}z\cdot w(x,y,u,v)}{\sum\limits_{(x,y,z)\in\mathcal{P}} w(x,y,u,v)}" /></a>
 is the *control points estimator* of weight function $w:\mathbb{R}^2\times\mathbb{R}^2\to[0,1]$.
 
 **In a nutshell.** We approximate a pointcloud $\mathcal{P}$ by using a tensor mesh and estimation of the control points by weighted averages.
