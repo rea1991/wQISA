@@ -15,7 +15,8 @@ In this case the program is distributed in the hope that it will be useful, but 
 You are free to use the wQISA for research purposes according to the licensing terms specified above.
 
 If your research produces publications, please cite the following paper:
-A. Raffo, S. Biasotti. Weighted Quasi Interpolant Spline Approximations: Properties and Applications. Numerical Algorithms volume 87, pages 819–847 (2021). DOI: 10.1007/s11075-020-00989-4.
+[1] A. Raffo, S. Biasotti. Weighted Quasi Interpolant Spline Approximations: Properties and Applications. Numerical Algorithms, Volume 87, Pages 819–847 (2021). DOI: 10.1007/s11075-020-00989-4.
+[2] A. Raffo, S. Biasotti. Data-driven quasi-interpolant spline surfaces for point cloud approximation. Computers & Graphics, Volume 89, Pages 144-155 (2020). DOI: 10.1016/j.cag.2020.05.004.
 
 THIS SOFTWARE IS PROVIDED BY CNR-IMATI AND SINTEF "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
 IN NO EVENT SHALL CNR-IMATI AND SINTEF BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWATE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
