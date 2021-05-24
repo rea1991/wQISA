@@ -24,5 +24,7 @@ Optimal k is 9
 Optimal n is 10
 ```
 ### References
+
 [1] A. Raffo, S. Biasotti. Weighted Quasi Interpolant Spline Approximations: Properties and Applications. Numerical Algorithms, Volume 87, Pages 819–847 (2021). DOI: 10.1007/s11075-020-00989-4.
+
 [2] A. Raffo, S. Biasotti. Data-driven quasi-interpolant spline surfaces for point cloud approximation. Computers & Graphics, Volume 89, Pages 144-155 (2020). DOI: 10.1016/j.cag.2020.05.004.
