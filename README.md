@@ -1,7 +1,6 @@
 # Weighted Quasi Interpolant Spline Approximation (wQISA) for Rainfall Fields
 
-This code performs wQISA with k-nearest neighbours weight functions. More details on the input data and the method itself are provided in the main file (wQISA for Rainfall Fields.ipynb). As a reference, we refer the reader to:
-https://link.springer.com/article/10.1007/s11075-020-00989-4
+This code performs wQISA with k-nearest neighbours weight functions. More details on the input data and the method itself are provided in the main file (wQISA for Rainfall Fields.ipynb).
 
 ### Parameters setting
 The optimal k is chosen, together with the optimal refinement level of the tensor mesh, by minimizing some prediction error (here: mean square error). The prediction error is estimated by performing 5 times a 5-fold cross-validation on the original dataset. For the sake of simplicity, we here directly upload the splitted data.
@@ -24,3 +23,6 @@ and
 Optimal k is 9
 Optimal n is 10
 ```
+### References
+[1] A. Raffo, S. Biasotti. Weighted Quasi Interpolant Spline Approximations: Properties and Applications. Numerical Algorithms, Volume 87, Pages 819–847 (2021). DOI: 10.1007/s11075-020-00989-4.
+[2] A. Raffo, S. Biasotti. Data-driven quasi-interpolant spline surfaces for point cloud approximation. Computers & Graphics, Volume 89, Pages 144-155 (2020). DOI: 10.1016/j.cag.2020.05.004.
